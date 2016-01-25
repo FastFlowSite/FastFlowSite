@@ -52,7 +52,7 @@ letter-spacing: 5px;
 #firstblock .image{
 
 	float: left;
-	background-image: url(images/10.jpg);
+	background-image: url(../images/10.jpg);
 }
 
 
@@ -64,7 +64,7 @@ letter-spacing: 5px;
 
 #secondblock .image{
 float: right;	
-	background-image: url(images/11.jpg);
+	background-image: url(../images/11.jpg);
 }
 
 
@@ -77,7 +77,7 @@ float: right;
 
 #thirtblock .image{
 float: left;	
-	background-image: url(images/12.jpg);
+	background-image: url(../images/12.jpg);
 }
 
 
