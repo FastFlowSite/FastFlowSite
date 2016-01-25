@@ -1,8 +1,15 @@
 .placehr{
-	margin: 10px 0 10px 10%;
-	
-	width: 80%;
-	   border: 0;
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eee -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-style: solid none none;
+    border-width: 2px 0 0;
+    margin: 50px 0 10px 10%;
+    width: 80%;
+    border:0;
     border-top: 2px solid #eee;
 }
 
