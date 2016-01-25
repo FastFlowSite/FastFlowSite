@@ -587,7 +587,8 @@ textarea {
 /*===================================
 ============= Footer ================
 ===================================*/
-#footer {
+#footer {position:relative;
+
 	background: #2d303a;
 	overflow: hidden;
 	}
