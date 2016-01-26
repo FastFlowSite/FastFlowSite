@@ -1,4 +1,6 @@
+
 .placehr{
+	border:0;
 	-moz-border-bottom-colors: none;
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
@@ -9,7 +11,6 @@
     border-width: 2px 0 0;
     margin: 50px 0 10px 10%;
     width: 80%;
-    border:0;
     border-top: 2px solid #eee;
 }
 
@@ -42,10 +43,16 @@
 }
 
 .textblock {
-		margin: 10px 20px;
+		margin: 10px 20px 10px 40px;
 	 display: inline-block;
 	width: 60%;
 
+}
+
+.textblocktittle{
+text-align: center;
+letter-spacing: 5px;
+margin-bottom: 20px;	
 }
 
 .tittleblock{
@@ -54,6 +61,13 @@ letter-spacing: 5px;
 	padding:80px 0%;
 	font-size: 50px;	
 }
+
+.servicebtn{
+margin: 20px 0 0 43%;
+margin-bottom: -20px;
+}
+
+
 
 
 #firstblock .image{
@@ -98,7 +112,6 @@ float: left;
 #thirtblock{
 	margin-bottom: 50px;
 }
-
 
 
 
