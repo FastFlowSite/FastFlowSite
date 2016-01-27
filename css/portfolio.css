@@ -43,10 +43,11 @@ background: #f06c64;
     position: relative;
     margin: 20px 5% 20px 5%;
    height: 450px;
+  
 }
 
 .imageblock{
-    width:100%;
+    width:99%;
     height: 70%;
     border-radius: 5px;
   
