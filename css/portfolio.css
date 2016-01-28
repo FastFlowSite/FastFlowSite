@@ -53,10 +53,43 @@ background: #f06c64;
   
 }
 
+.imageself:hover{
+
+    opacity: 0.8;
+}
+
+.imageself:hover .imagetittle{
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+
+.imageself:hover .hrimageblock{
+    display: block;
+    width: 60%;
+    
+}
+
 .imageself{
     background-image: url(../images/nesex.png);
     background-position: 50% 60%;
+    text-align: center;
 }
+
+.imagetittle{
+    display: inline-block;
+    margin-top: 20%;
+   -webkit-transition-duration: 0.5s;
+}
+
+.hrimageblock{
+    width: 100%;
+    margin-left: 20%;
+    margin-top: 30px;
+    display: none;
+    -webkit-transition-duration: 0.5s;
+}
+
+
 
 .sitedescritionblock{
 display: inline-block;
